@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="rating">0</string>
+    <string name="titulo_favoritos">Mis mascotas favoritas</string>
+    <string name="numero_favoritos">1</string>
+    <string name="nombre_mascota_favoritos">Nube</string>
+
+    <string name="titulo_principal">Mis mascotas</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acerca">Acerca de</string>
+
+    <string name="contact_nombre">Nombre</string>
+    <string name="contact_email">Email</string>
+    <string name="contact_passw">Password</string>
+    <string name="contact_mensaje">Mensaje:</string>
+    <string name="btn_enviar">Enviar comentario</string>
+    <string name="titulo_contacto">Dejame tu comentario</string>
+
+    <string name="titulo_acerca">BIO del desarrollador</string>
+    <string name="bio_nombre_titulo">Nombre:</string>
+    <string name="bio_nombre_text">nombre</string>
+    <string name="bio_lugar_nacimiento_titulo">Lugar de nacimiento:</string>
+    <string name="bio_lugar_nacimiento_texto">lugar de nacimiento</string>
+    <string name="bio_app_titulo">Aplicación:</string>
+    <string name="bio_app_texto">aplicación</string>
+    <string name="bio_fecha_desarrollo_titulo">Fecha de desarrollo:</string>
+    <string name="bio_fecha_desarrollo_texto">fecha</string>
+    <string name="bio_version_titulo">Versión:</string>
+    <string name="bio_version_texto">versión</string>
+    <string name="bio_sobre_mi_titulo">Sobre mí:</string>
+    <string name="bio_sobre_mi_texto">comentario</string>
+    <string name="bio_mi_nombre">Ramón Carrión</string>
+    <string name="bio_mi_lugar_nac">España</string>
+    <string name="bio_mi_info">Esta aplicación ha sido desarrollada para el curso de
+                    "Desarrollo de aplicaciones con Android" de Coursera / UNAM. </string>
+    <string name="app_version">0.0.1</string>
+    <string name="app_fecha_desarrollo">Octubre 2020</string>
+    <string name="boton_dialogo_ok">Aceptar</string>
+
+    <string name="app_title">Petagram</string>
+    <string name="title_contact">Formulario de Contacto</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="menu_contact">Contacto</string>
+
+</resources>

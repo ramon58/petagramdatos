@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.MisFavoritos">
+
+    <include android:id="@+id/toolbar"
+        layout="@layout/actionbar" />
+
+    <TextView
+        android:id="@+id/tvTituloFavoritos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/toolbar"
+        android:text="@string/titulo_favoritos"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        android:textSize="@dimen/tam_titulo"
+        android:gravity="center_horizontal" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvFavoritos"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/tvTituloFavoritos"
+        android:layout_centerHorizontal="true"
+        android:padding="@dimen/activity_horizontal_margin" />
+
+</RelativeLayout>

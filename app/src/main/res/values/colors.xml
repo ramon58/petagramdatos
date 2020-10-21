@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="colorTitulo">#FFF</color>
+
+    <color name="colorTextoLabel">#51136C</color>
+    <color name="colorTexto">#04428F</color>
+    <color name="colorHembra">#ff99ff</color>
+    <color name="colorMacho">#99ccff</color>
+
+    <color name="colorPrimaryText">#4D3E42</color>
+    <color name="colorSecondaryText">#8d6e63</color>
+    <color name="colorDivider">#d7ccc8</color>
+    <color name="colorTextIcons">#FFFFFF</color>
+    <color name="colorLightPrimary">#B2EBF2</color>
+
+</resources>
